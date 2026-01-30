@@ -1,13 +1,3 @@
-### **GitHub Repository Details**
-
-* **Repo Name:** `Python-YouTube-Downloader`
-* **Short Description (About Section):** A multi-threaded desktop GUI application to download YouTube videos and extract audio in high quality using yt-dlp and FFmpeg.
-* **Tags/Topics:** `python` `tkinter` `gui` `yt-dlp` `ffmpeg` `video-processing` `automation`
-
----
-
-### **Copy this into your `README.md` file:**
-
 ```markdown
 # 📺 YouTube Video Downloader
 
